@@ -5,13 +5,13 @@ export async function GET() {
   const farcasterConfig = {
   // TODO: Add your own account association
     accountAssociation: {
-    "header": "eyJmaWQiOjMyODg1NSwidHlwZSI6ImF1dGgiLCJrZXkiOiIweERCOTczZjliNWI0MDhFMkZFNjNFQ2UzNjBEYjFjODU5YjQ5NDFFRTcifQ",
-    "payload": "eyJkb21haW4iOiJmYXJjYXN0ZXItbWluaWFwcC10ZW1wbGF0ZS1lYm9uLnZlcmNlbC5hcHAifQ",
-    "signature": "1bH6yx1yjJgF2olNGcmhAgsbS229TmERlvHsktnOqA88aDMQAPm+WSFEgqfIFtcRFIUsewD5Of72EVNKufxX3Bs="
+    "header": "eyJmaWQiOjk0ODUyMiwidHlwZSI6ImN1c3RvZHkiLCJrZXkiOiIweDY1NzI2QzQ4NjdjZmJEZDgyZTI4MzRGNzQxNUJkOUQ0NmJjODUzQ0YifQ",
+    "payload": "eyJkb21haW4iOiJmYXJjYXN0ZXItbWluaWFwcC10ZW1wbGF0ZS1xM3htLnZlcmNlbC5hcHAifQ",
+    "signature": "IQw6whCCcWA7EFIUAIX2bmc59ZA3hXNHhGYanbORjn84kQe3Iy9wskR6ZLE8kLEjZH2gZOyvXg10nEUvXbc5kxs="
   },
     frame: {
       version: "1",
-      name: "Trankil Farcaster MiniApp",
+      name: "CedlicZan Farcaster MiniApp",
       iconUrl: `${APP_URL}/images/icon.png`,
       homeUrl: `${APP_URL}`,
       imageUrl: `${APP_URL}/images/feed.png`,
