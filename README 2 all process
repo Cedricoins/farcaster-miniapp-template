@@ -44,7 +44,7 @@ etape 1 :  cloner ce repository
 étape 2 : créer un contract avec remix  sur base mainet 
 avec ce code 
 
-/ SPDX-License-Identifier: MIT
+// SPDX-License-Identifier: MIT
 pragma solidity ^0.8.20;
 
 /// @title SimplePayable (standalone, no imports)
