@@ -99,9 +99,9 @@ et le verifier ici https://basescan.org/verifyContract
 
 ensuite dans components/Home/WalletActions.tsx
 
-mettre l'adresse de votre contract ci dessous à la place de 0xCdcC45169fCbF6cEcC1931f3415978E3a6553ACd  
+mettre l'adresse de votre contract ci dessous à la place de 0xec073bb2bdfcce43d1c1d70f89aac7b5f6c2ca37  
    // Adresse du contrat déployé
-  const contractAddress = '0xCdcC45169fCbF6cEcC1931f3415978E3a6553ACd'
+  const contractAddress = '0xec073bb2bdfcce43d1c1d70f89aac7b5f6c2ca37'
 
 
 dans components/Home/FarcasterActions.tsx   changer le fid:xxx par votre ID que vous pouvez trouver dans votre profil farcaster
