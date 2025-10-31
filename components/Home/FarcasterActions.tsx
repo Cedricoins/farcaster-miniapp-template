@@ -56,7 +56,7 @@ export function FarcasterActions() {
             <button
               type="button"
               className="bg-white text-black rounded-md p-2 text-sm"
-              onClick={() => actions?.viewProfile({ fid: 328855 })}
+              onClick={() => actions?.viewProfile({ fid: 948522 })}
             >
               viewProfile
             </button>
